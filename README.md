@@ -1,5 +1,6 @@
 # InformationRetrieval
 based on lucene8.3  
+
   override analyzer to add StopFilter and PorterStemFilter  
   MultiFieldQuery for normal search  
   Advance Search:  
